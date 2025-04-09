@@ -18,6 +18,6 @@ ZetaChain undergoes **competitive audits** for every major blockchain integratio
 
 - [Code4rena – November 2023](https://code4rena.com/audits/2023-11-zetachain)
 - [Cantina – January 2024](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)
-- [Sherlock – 2025](https://audits.sherlock.xyz/contests/857)
+- [Sherlock – April 2025](https://audits.sherlock.xyz/contests/857)
 
 These collaborative efforts with renowned platforms enable us to catch issues early and strengthen our smart contracts and blockchain integrations at scale.
